@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+.kotak {
+    text-align: right;
+    background-color:lightgray;
+    padding: 10px;
+}
+.produk {
+    text-align: center;
+
+}
+
+.kotak2{
+    text-align: center;
+    background: lightgray;
+    padding: 10px;
+}
+
